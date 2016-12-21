@@ -12,6 +12,7 @@ export {TemporaryCredentials} from './credentials/temporary_credentials';
 export {WebIdentityCredentials} from './credentials/web_identity_credentials';
 export {Endpoint} from './endpoint';
 export {EventListeners} from './event_listeners';
+export {HttpClient} from './http_client';
 export {HttpRequest} from './http_request';
 export {HttpResponse} from './http_response';
 export {MetadataService} from './metadata_service';
