@@ -4,4 +4,4 @@ export * from './lib/core';
 export * from './clients/all';
 export var config: GlobalConfigInstance
 
-export as namespace AWS;
+// export as namespace AWS;
