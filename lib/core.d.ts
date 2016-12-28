@@ -19,3 +19,4 @@ export {MetadataService} from './metadata_service';
 export {Request} from './request';
 export {Response} from './response';
 export {Service} from './service';
+export {Util} from './util';
