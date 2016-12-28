@@ -1,5 +1,5 @@
 
-export class Util {
+export class util {
     static engine():string;
     static userAgent():string;
     static isBrowser():boolean;
